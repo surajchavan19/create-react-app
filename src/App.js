@@ -6,6 +6,7 @@ import third from "./assets/3.png";
 import fourth from "./assets/4.png";
 import fifth from "./assets/5.png";
 import six from "./assets/6.png";
+import "./App.css";
 
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
