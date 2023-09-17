@@ -47,7 +47,7 @@ function App() {
                         />
                       </Col>
                       <Col xs={6}>Om Avhad</Col>
-                      <Col xs={4}>30 mins</Col>
+                      <Col xs={4}>35 mins</Col>
                     </Row>
                   </Container>
                 </div>
@@ -62,7 +62,7 @@ function App() {
                         />
                       </Col>
                       <Col xs={6}>Rachit Arora</Col>
-                      <Col xs={4}>30 mins</Col>
+                      <Col xs={4}>45 mins</Col>
                     </Row>
                   </Container>
                 </div>
@@ -77,7 +77,7 @@ function App() {
                         />
                       </Col>
                       <Col xs={6}>Jay Shah</Col>
-                      <Col xs={4}>30 mins</Col>
+                      <Col xs={4}>52 mins</Col>
                     </Row>
                   </Container>
                 </div>
@@ -92,7 +92,7 @@ function App() {
                         />
                       </Col>
                       <Col xs={6}>Manoj Tiwari</Col>
-                      <Col xs={4}>30 mins</Col>
+                      <Col xs={4}>57 mins</Col>
                     </Row>
                   </Container>
                 </div>
@@ -107,7 +107,7 @@ function App() {
                         />
                       </Col>
                       <Col xs={6}>Omkar Bhosale</Col>
-                      <Col xs={4}>30 mins</Col>
+                      <Col xs={4}>1 hour</Col>
                     </Row>
                   </Container>
                 </div>
