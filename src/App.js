@@ -1,13 +1,11 @@
 import React from "react";
 import Container from "react-bootstrap/esm/Container";
-import first from "../assets/1.png";
-import second from "../assets/2.png";
-import third from "../assets/3.png";
-import fourth from "../assets/4.png";
-import fifth from "../assets/5.png";
-import six from "../assets/6.png";
-import Checkoutforn from "../components/Checkoutforn";
-import Paymentform from "../components/Paymentform";
+import first from "./assets/1.png";
+import second from "./assets/2.png";
+import third from "./assets/3.png";
+import fourth from "./assets/4.png";
+import fifth from "./assets/5.png";
+import six from "./assets/6.png";
 
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -18,7 +16,6 @@ function App() {
     <div>
       {isMobile ? (
         <Container style={{ padding: "5% 0% 5% 0%" }}>
-          <Paymentform />
           <h1 style={{ margin: " 2% 0% 5% 7%" }}>Leaderboards</h1>
           <Container>
             <div class="container">
